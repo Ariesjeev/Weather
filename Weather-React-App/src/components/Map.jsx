@@ -17,7 +17,7 @@ const Map = ({ lat, lng, src  }) => {
       layers:  [
         L.tileLayer (
           `https://tiles.stadiamaps.com/tiles/outdoors/{z}/{x}/{y}{r}.png?api_key=
-            9HD6BSB4H5JGFQ6ZPCHV5J9YF
+            AIzaSyD4KQaAlsn3cT_7SWcDHekZBdLWt0EDqm0
           ` ,
           {
             attribution: 
